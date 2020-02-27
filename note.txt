@@ -1,0 +1,5 @@
+1. install git: git - init 
+- unstracked files
+- Unstagged files
+- stagged files
+- commit
