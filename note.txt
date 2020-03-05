@@ -1,5 +1,14 @@
 1. install git: git - init 
 - unstracked files
-- Unstagged files
+- Unstaged files
 - stagged files
 - commit
+
+2. git commit -m"message"
+ssh-keygen -t rsa -b 4096 -C "huongnt@adasiaholdings.com"
+eval "$(ssh-agent -s)"
+
+
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDAb5d43/aQxyRZ+NhVLKz3mgAm7rO5CirUB/Tvazw2X2LCuCxSeMbDOTikaOXtrj3dlmHAllq5y6+oDlh+TXAvuGiBJbmQ5aK1i0xnCqJ1jvdvBtfPVImzl9BRARjHEveHS99a0R7YjpMtGd5cVxp4zGaYsXmnY2YSwJy5yu4VDzUXzZeBMvEJtc/GcuXtZF8T0C98Iot/kl825lCIhKD51T1sBzSxGXvP38BW9kHIqB9ixeAK6q2J3D4MgIOdmlMvlIagfwcw4L4BaBbF85Z7wrbV+4X6rtutX9zrlx58UkhjzaGyBugQ2gfloZmla9p3ufns4piN+n1BIeDMMmvTBRfQm5xIr8aTRy89tTUEYbqA8Ym0iJ86cvjtcaaDO/dePWmTMBDrDkDztDwFKKBPCRP9wrpsDmsN/IQEt+A0DFfs1QySRMbYSGSE0BVsu3WIMnF2ofknsZdyw4C/w98L3PfPF4av+qZevESOEKak9pwUbSFHcWIThjOuO76gIJMS9wngqbBJ5KHO2TGTnrfamLXl0bZAU65paNqSbJsOeU9wDTTaCzyXTnkwl13Wl+JurVpkFZuO6+k0ziYXJ+Z+y9HYytwfUESrV89HUUXSVFMldfTqDKv9Fd0BmmNgc/LZL9XRA6QqaEQNuWdY0xg34AovpLvUyM0GugKd8Ohi9Q== huongnt@adasiaholdings.com
